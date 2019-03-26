@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DX11 Framework.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Application.cpp
+c:\users\g018049f\desktop\graphics\final graphics\project folder\special effects pipeline\application.cpp(448): warning C4189: 'x': local variable is initialized but not referenced
+c:\users\g018049f\desktop\graphics\final graphics\project folder\special effects pipeline\application.cpp(863): warning C4458: declaration of 'renderToTextureDesc' hides class member
+  c:\users\g018049f\desktop\graphics\final graphics\project folder\special effects pipeline\application.h(115): note: see declaration of 'Application::renderToTextureDesc'
+  Camera.cpp
+  DDSTextureLoader.cpp
+  Main.cpp
+  GameObject.cpp
+c:\users\g018049f\desktop\graphics\final graphics\project folder\special effects pipeline\gameobject.cpp(18): warning C4100: 't': unreferenced formal parameter
+  Generating Code...
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Special Effects Pipeline.vcxproj -> C:\Users\g018049f\Desktop\Graphics\Final Graphics\Debug\Special Effects Pipeline.exe

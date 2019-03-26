@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DX11 Framework.vcxproj, Parallax Mapping.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Application.cpp
+c:\users\thomasgriffiths\desktop\advanced graphics\graphics\final graphics\project folder\parallax mapping\agrtr framework 2016\application.cpp(349): warning C4189: 'x': local variable is initialized but not referenced
+  Camera.cpp
+  DDSTextureLoader.cpp
+  Main.cpp
+  GameObject.cpp
+c:\users\thomasgriffiths\desktop\advanced graphics\graphics\final graphics\project folder\parallax mapping\agrtr framework 2016\gameobject.cpp(18): warning C4100: 't': unreferenced formal parameter
+  Generating Code...
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  ParallaxMapping.vcxproj -> C:\Users\ThomasGriffiths\Desktop\Advanced Graphics\Graphics\Final Graphics\Debug\Parallax Occlusion Mapping.exe

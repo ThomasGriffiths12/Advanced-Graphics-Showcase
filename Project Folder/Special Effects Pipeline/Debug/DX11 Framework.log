@@ -1,0 +1,5 @@
+﻿  Application.cpp
+c:\users\g018049f.student\desktop\agrtr framework 2016\application.cpp(448): warning C4189: 'x': local variable is initialized but not referenced
+c:\users\g018049f.student\desktop\agrtr framework 2016\application.cpp(863): warning C4458: declaration of 'renderToTextureDesc' hides class member
+  c:\users\g018049f.student\desktop\agrtr framework 2016\application.h(115): note: see declaration of 'Application::renderToTextureDesc'
+  DX11 Framework.vcxproj -> C:\Users\g018049f.STUDENT\Desktop\AGRTR Framework 2016\Debug\DX11 Framework.exe
